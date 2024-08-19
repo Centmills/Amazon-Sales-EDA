@@ -33,7 +33,7 @@ The following Python libraries were imported:
 - `seaborn`
 - `wordcloud`
 - `textblob`
-- 
+  
 ## Project Structure
 
 The project consists of several key components:
@@ -62,7 +62,7 @@ The project consists of several key components:
 
 Bar charts, pie charts, histograms, word clouds, and heatmaps are used to visualize the analysis results.
 
-## Sample Visualization (More on Notebook)
+## Sample Visualizations (More on Notebook)
 ![image](https://github.com/user-attachments/assets/f0102a3e-7bac-4596-8ccf-643ed109f4b3)
 
 ![image](https://github.com/user-attachments/assets/594e3d4f-380f-484a-9ece-69dcfbf15ccc)
